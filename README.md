@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Edijs
 - 👀 I’m interested in programming, cycling, nature
-- 🌱 I’m currently learning HTML, CSS, Python, PostgreSQL, Delphi
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I am senior Delphi software engineer
+- 📫 terminedijs@yahoo.com
 
 <!---
 Edijus/Edijus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
